@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Instructions to checkout git repository are below
+# https://help.github.com/articles/generating-ssh-keys/
+
 #Step 3: using the pre-installed open jdk, get gvm and install grails, gradle, groovy
 
 # get curl to be able to install gvm
